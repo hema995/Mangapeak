@@ -1,0 +1,38 @@
+{
+  "latestVersion": "1.1",
+  "latestVersionCode": 1024,
+  "minVersion": "0.1",
+  "minVersionCode": 1,
+  "forceUpdate": true,
+  "updateMessage": {
+    "ar": "🎉 إصدار جديد ومثير متوفر الآن! احصل على تحسينات رائعة وميزات جديدة",
+    "en": "🎉 Exciting new version available! Get amazing improvements and new features"
+  },
+  "updateTitle": {
+    "ar": "🚀 تحديث التطبيق",
+    "en": "🚀 App Update"
+  },
+  "features": {
+    "ar": [
+      "✨ تحسينات كبيرة في الأداء والسرعة",
+      "🎨 تصميم جديد وأنيق للواجهات",
+      "🐛 إصلاح جميع الأخطاء المعروفة",
+      "🔒 تحسينات أمنية متقدمة",
+      "📱 دعم أفضل للأجهزة الحديثة",
+      "🌙 وضع ليلي جديد ومريح للعينين"
+    ],
+    "en": [
+      "✨ Major performance and speed improvements",
+      "🎨 New elegant interface design",
+      "🐛 Fixed all known bugs",
+      "🔒 Advanced security enhancements",
+      "📱 Better support for modern devices",
+      "🌙 New comfortable night mode"
+    ]
+  },
+  "downloadUrl": "https://github.com/yourusername/yourrepo/releases/download/v1.1.0/app-release-v1.1.0.apk",
+  "releaseDate": "2024-08-06",
+  "mandatory": false,
+  "minAndroidVersion": 21,
+  "targetAndroidVersion": 34
+}
