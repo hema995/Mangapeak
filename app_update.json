@@ -5,12 +5,12 @@
   "minVersionCode": 1,
   "forceUpdate": true,
   "updateMessage": {
-    "ar": "🎉 إصدار جديد متوفر الآن! احصل على تحسينات رائعة وميزات جديدة",
-    "en": "🎉 new version available! Get amazing improvements and new features"
+    "ar": "🎉 إصدار جديد متوفر الآن! للتحديث حمل التطبيق من الموقع رسمي",
+    "en": "🎉 إصدار جديد متوفر الآن! للتحديث حمل التطبيق من الموقع رسمي"
   },
   "updateTitle": {
-    "ar": "🚀 تحديث التطبيق",
-    "en": "🚀 App Update"
+    "ar": "🚀للتحديث حمل التطبيق من الموقع رسمي",
+    "en": "🚀 للتحديث حمل التطبيق من الموقع رسمي"
   },
 "features": {
   "ar": [
